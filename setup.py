@@ -19,8 +19,8 @@ setup(
     url='https://github.com/vipul-sharma20/summrizer',
 
     # Author details
-    author='Vipul Sharma',
-    author_email='vipul.sharma20@gmail.com',
+    author='Shivang Shekhar',
+    author_email='shivank1995@gmail.com',
 
     license='MIT',
 
